@@ -1,0 +1,4 @@
+physics: 104(l) 55(pr) 5(lab)
+sociology: 80(l) - -
+physical: - 60(pr) -
+urmaty: 75(l) 40(pr) -

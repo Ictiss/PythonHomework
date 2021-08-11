@@ -1,0 +1,5 @@
+Smith 20000
+Lee 40000
+Adams 11000
+Bang 120000
+Uke 5891
